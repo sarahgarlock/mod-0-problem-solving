@@ -4,7 +4,7 @@
 
 # Create an array with string elements
 # Iterate through each string 
-# Use if method and .start_with? method to call on name variable
+# Use if statement and .start_with? method to call on name variable
 # Print out only strings that start with "t"
 
 names = ["greg", "tim", "bob", "travis", "tommy", "Tina"]
